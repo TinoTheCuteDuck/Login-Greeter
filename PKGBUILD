@@ -7,6 +7,8 @@ pkgdesc="A simple Qt6 QML login greeter"
 arch=('x86_64')
 url="https://github.com/TinoTheCuteDuck/Login-Greeter"
 
+options=('!debug')
+
 depends=(
     'qt6-base'
     'qt6-declarative'
