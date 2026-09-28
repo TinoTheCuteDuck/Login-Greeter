@@ -15,7 +15,7 @@ depends=(
 )
 
 source=(
-    "LoginGreeter::https://github.com/TinoTheCuteDuck/Login-Greeter/releases/download/v${pkgver}/Login-Greeter"
+    "LoginGreeter::https://github.com/TinoTheCuteDuck/Login-Greeter/releases/download/v${pkgver}/LoginGreeter"
 )
 
 sha256sums=('SKIP')
